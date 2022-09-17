@@ -1,3 +1,2 @@
 # Synapse-Tasks
-Tasks
-Bohot mehnat ki hai :)
+Tasks keliye Bohot mehnat ki hai :)
